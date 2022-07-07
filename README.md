@@ -1,5 +1,5 @@
 # OxygenX - Web 3.0 Blockchain Application
-![OxygenX](https://i.ibb.co/DVF4tNW/image.png)
+![OxygenX-Smart-Contract](https://github.com/rahulkarda/oxygenx-smart-contract/blob/master/client/images/oxygenx-smart-contract.png?raw=true)
 
 ## Introduction
 This is a code repository for the Web3 App.
